@@ -10,5 +10,5 @@ git init
 git add .
 git commit -m "Initial"
 git remote add origin <Repo URL>
-git push origin main
+git push --set-upstream origin master
 ```
