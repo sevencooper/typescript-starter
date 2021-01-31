@@ -3,7 +3,7 @@ Recommended to be used with VSCode and the following extensions:
 - Prettier
 - Gitlens
 
-After cloning remove the .git directory, modify package.json, and re initialize the repo
+After cloning rename the directory, remove the .git directory, modify package.json, and re initialize the repo
 ```
 rm -rf ./.git
 git init 
